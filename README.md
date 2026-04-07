@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Juan Angel Becerra</h1>
 <h3 align="center">Soy un Desarrollador Web apasionado</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript y Python**
+- 💬 Ask me about **HTML • CSS • JavaScript • TypeScript • React • Angular • Node.js • Python • SQL • REST APIs • Git • GitHub**
 
 - 📫 How to reach me **juanangel.bp17@gmail.com**
 
