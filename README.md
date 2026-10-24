@@ -50,7 +50,7 @@ Seguir creciendo como desarrollador web, adquirir experiencia en proyectos reale
 ## Contacto
 
 - **LinkedIn:** [Mi perfil profesional](https://www.linkedin.com/in/juanbecerrap/)
-- **Portafolio:** [Visita mi portafolio](URL_DE_TU_PORTAFOLIO)
+- **Portafolio:** [Visita mi portafolio](https://juanbecerrap-dev.vercel.app/)
 
 Siempre abierto a aprender, asumir nuevos retos y encontrar oportunidades para crecer profesionalmente.
 
