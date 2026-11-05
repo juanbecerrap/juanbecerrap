@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software Full Stack
 
-Desarrollador de Software Full Stack con cerca de 3 años de experiencia construyendo aplicaciones web como freelance. Trabajo con React y Angular en el frontend, y con Node.js, Express y Python en el backend, creando y consumiendo APIs RESTful.
+Desarrollador de Software Full Stack con mas de 3 años de experiencia construyendo aplicaciones web como freelance. Trabajo con React y Angular en el frontend, y con Node.js, Express y Python en el backend, creando y consumiendo APIs RESTful.
 
 ## Tecnologías y herramientas
 
@@ -29,7 +29,6 @@ Desarrollador de Software Full Stack con cerca de 3 años de experiencia constru
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ## Proyectos destacados
